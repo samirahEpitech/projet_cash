@@ -10,7 +10,7 @@ import retrofit2.converter.scalars.ScalarsConverterFactory
 
 object APIConfig {
 
-//    val BASE_URL = "https://all-spices.com/api/products/"
+
     //val BASE_URL = "http://localhost:8080/api/products"
 const val BASE_URL = "http://172.16.1.184:8080/api/products/"
 
